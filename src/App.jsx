@@ -282,7 +282,7 @@ const App = () => {
                   height: '500px',
                   backgroundColor: '#4f46e5',
                   marginLeft: '-60px',
-                  marginTop: '-300px',
+                  // marginTop: '-300px',
                   borderRadius: '50%',
                   display: 'flex',
                   alignItems: 'center',
